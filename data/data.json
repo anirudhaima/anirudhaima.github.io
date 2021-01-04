@@ -6,10 +6,11 @@
             "20203002",
             "20203003"
          ],
+         "currency":"RESIDENCE COUNTRY",
          "data":[
             {
                "lineItem":"line item 1",
-               "currency":[
+               "RESIDENCE COUNTRY":[
                   "Total",
                   "GBP",
                   "INR"
