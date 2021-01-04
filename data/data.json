@@ -20,19 +20,19 @@
                      "value":"340",
                      "diff":"-",
                      "diff_per":"200",
-                     "currency":"Total"
+                     "RESIDENCE COUNTRY":"Total"
                   },
                   {
                      "value":"900",
                      "diff":"-10",
                      "diff_per":"-20%",
-                     "currency":"GBP"
+                     "RESIDENCE COUNTRY":"GBP"
                   },
                   {
                      "value":"500",
                      "diff":"-10",
                      "diff_per":"-20%",
-                     "currency":"INR"
+                     "RESIDENCE COUNTRY":"INR"
                   }
                ],
                "20203002":[
@@ -40,19 +40,19 @@
                      "value":"390",
                      "diff":"-",
                      "diff_per":"200",
-                     "currency":"Total"
+                     "RESIDENCE COUNTRY":"Total"
                   },
                   {
                      "value":"90",
                      "diff":"-10",
                      "diff_per":"-20%",
-                     "currency":"GBP"
+                     "RESIDENCE COUNTRY":"GBP"
                   },
                   {
                      "value":"50",
                      "diff":"-10",
                      "diff_per":"-20%",
-                     "currency":"INR"
+                     "RESIDENCE COUNTRY":"INR"
                   }
                ],
                "20203003":[
@@ -60,19 +60,19 @@
                      "value":"33390",
                      "diff":"-",
                      "diff_per":"2030",
-                     "currency":"Total"
+                     "RESIDENCE COUNTRY":"Total"
                   },
                   {
                      "value":"90",
                      "diff":"-1330",
                      "diff_per":"-20%",
-                     "currency":"GBP"
+                     "RESIDENCE COUNTRY":"GBP"
                   },
                   {
                      "value":"50",
                      "diff":"-1330",
                      "diff_per":"-20%",
-                     "currency":"INR"
+                     "RESIDENCE COUNTRY":"INR"
                   }
                ]
             },
@@ -88,19 +88,19 @@
                      "value":"340",
                      "diff":"-",
                      "diff_per":"200",
-                     "currency":"INR"
+                     "RESIDENCE COUNTRY":"INR"
                   },
                   {
                      "value":"900",
                      "diff":"-10",
                      "diff_per":"-20%",
-                     "currency":"INR"
+                     "RESIDENCE COUNTRY":"INR"
                   },
                   {
                      "value":"500",
                      "diff":"-10",
                      "diff_per":"-20%",
-                     "currency":"INR"
+                     "RESIDENCE COUNTRY":"INR"
                   }
                ],
                "20203002":[
@@ -114,13 +114,13 @@
                      "value":"90",
                      "diff":"-10",
                      "diff_per":"-20%",
-                     "currency":"INR"
+                     "RESIDENCE COUNTRY":"INR"
                   },
                   {
                      "value":"50",
                      "diff":"-10",
                      "diff_per":"-20%",
-                     "currency":"INR"
+                     "RESIDENCE COUNTRY":"INR"
                   }
                ],
                "20203003":[
@@ -128,19 +128,19 @@
                      "value":"33390",
                      "diff":"-",
                      "diff_per":"2030",
-                     "currency":"INR"
+                     "RESIDENCE COUNTRY":"INR"
                   },
                   {
                      "value":"90",
                      "diff":"-1330",
                      "diff_per":"-20%",
-                     "currency":"INR"
+                     "RESIDENCE COUNTRY":"INR"
                   },
                   {
                      "value":"50",
                      "diff":"-1330",
                      "diff_per":"-20%",
-                     "currency":"INR"
+                     "RESIDENCE COUNTRY":"INR"
                   }
                ]
             }
