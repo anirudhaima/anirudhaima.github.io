@@ -445,33 +445,33 @@
             {
                "name":"CASH AND BALANCES - BANKS - OUTSIDE SINGAPORE",
                "data":[
-                  "1385640646.05512",
-                  "1385640726.05512",
-                  "1385640766.05512"
+                  1385640646.05512,
+                  1385640726.05512,
+                  1385640766.05512
                ]
             },
             {
                "name":"CASH AND BALANCES - GOVERNMENT - OUTSIDE SINGAPORE",
                "data":[
-                  "0.0",
-                  "80.0",
-                  "120.0"
+                  0.0,
+                  80.0,
+                  120.0
                ]
             },
             {
                "name":"CASH AND BALANCES - CENTRAL BANKS - OUTSIDE SINGAPORE",
                "data":[
-                  "0.0",
-                  "80.0",
-                  "120.0"
+                  0.0,
+                  80.0,
+                  120.0
                ]
             },
             {
                "name":"CASH AND BALANCES - PSEs - OUTSIDE SINGAPORE",
                "data":[
-                  "0.0",
-                  "80.0",
-                  "120.0"
+                  0.0,
+                  80.0,
+                  120.0
                ]
             }
          ]
