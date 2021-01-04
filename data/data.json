@@ -6,7 +6,7 @@
             "20203002",
             "20203003"
          ],
-         "currency":"RESIDENCE COUNTRY",
+         "dimensionHeading":"RESIDENCE COUNTRY",
          "data":[
             {
                "lineItem":"line item 1",
