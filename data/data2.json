@@ -1,0 +1,481 @@
+{
+   "model":{
+      "trendGridData":{
+         "periods":[
+            "20180630",
+            "20190630",
+            "20200630"
+         ],
+         "dimensionHeading":"RESIDENCE COUNTRY",
+         "data":[
+            {
+               "lineItem":"CASH AND BALANCES - BANKS - OUTSIDE SINGAPORE",
+               "RESIDENCE COUNTRY":[
+                  "Total",
+                  "China",
+                  "France",
+                  "Germany",
+                  "India"
+               ],
+               "20180630":[
+                  {
+                     "RESIDENCE COUNTRY":"Total",
+                     "diff":"-",
+                     "value":"1385640646.05512",
+                     "diff_per":"-"
+                  },
+                  {
+                     "RESIDENCE COUNTRY":"China",
+                     "diff":"-",
+                     "value":"346410161.51378",
+                     "diff_per":"-"
+                  },
+                  {
+                     "RESIDENCE COUNTRY":"France",
+                     "diff":"-",
+                     "value":"346410161.51378",
+                     "diff_per":"-"
+                  },
+                  {
+                     "RESIDENCE COUNTRY":"Germany",
+                     "diff":"-",
+                     "value":"346410161.51378",
+                     "diff_per":"-"
+                  },
+                  {
+                     "RESIDENCE COUNTRY":"India",
+                     "diff":"-",
+                     "value":"346410161.51378",
+                     "diff_per":"-"
+                  }
+               ],
+               "20190630":[
+                  {
+                     "RESIDENCE COUNTRY":"Total",
+                     "diff":"80.0",
+                     "value":"1385640726.05512",
+                     "diff_per":"0.0000057735026918961824%"
+                  },
+                  {
+                     "RESIDENCE COUNTRY":"China",
+                     "diff":"20.0",
+                     "value":"346410181.51378",
+                     "diff_per":"0.0000057735026918961824%"
+                  },
+                  {
+                     "RESIDENCE COUNTRY":"France",
+                     "diff":"20.0",
+                     "value":"346410181.51378",
+                     "diff_per":"0.0000057735026918961824%"
+                  },
+                  {
+                     "RESIDENCE COUNTRY":"Germany",
+                     "diff":"20.0",
+                     "value":"346410181.51378",
+                     "diff_per":"0.0000057735026918961824%"
+                  },
+                  {
+                     "RESIDENCE COUNTRY":"India",
+                     "diff":"20.0",
+                     "value":"346410181.51378",
+                     "diff_per":"0.0000057735026918961824%"
+                  }
+               ],
+               "20200630":[
+                  {
+                     "RESIDENCE COUNTRY":"Total",
+                     "diff":"40.0",
+                     "value":"1385640766.05512",
+                     "diff_per":"0.000002886751179281434%"
+                  },
+                  {
+                     "RESIDENCE COUNTRY":"China",
+                     "diff":"10.0",
+                     "value":"346410191.51378",
+                     "diff_per":"0.000002886751179281434%"
+                  },
+                  {
+                     "RESIDENCE COUNTRY":"France",
+                     "diff":"10.0",
+                     "value":"346410191.51378",
+                     "diff_per":"0.000002886751179281434%"
+                  },
+                  {
+                     "RESIDENCE COUNTRY":"Germany",
+                     "diff":"10.0",
+                     "value":"346410191.51378",
+                     "diff_per":"0.000002886751179281434%"
+                  },
+                  {
+                     "RESIDENCE COUNTRY":"India",
+                     "diff":"10.0",
+                     "value":"346410191.51378",
+                     "diff_per":"0.000002886751179281434%"
+                  }
+               ]
+            },
+            {
+               "lineItem":"CASH AND BALANCES - GOVERNMENT - OUTSIDE SINGAPORE",
+               "RESIDENCE COUNTRY":[
+                  "Total",
+                  "China",
+                  "France",
+                  "Germany",
+                  "India"
+               ],
+               "20180630":[
+                  {
+                     "RESIDENCE COUNTRY":"Total",
+                     "diff":"-",
+                     "value":"0.0",
+                     "diff_per":"-"
+                  },
+                  {
+                     "RESIDENCE COUNTRY":"China",
+                     "diff":"-",
+                     "value":"0.0",
+                     "diff_per":"-"
+                  },
+                  {
+                     "RESIDENCE COUNTRY":"France",
+                     "diff":"-",
+                     "value":"0.0",
+                     "diff_per":"-"
+                  },
+                  {
+                     "RESIDENCE COUNTRY":"Germany",
+                     "diff":"-",
+                     "value":"0.0",
+                     "diff_per":"-"
+                  },
+                  {
+                     "RESIDENCE COUNTRY":"India",
+                     "diff":"-",
+                     "value":"0.0",
+                     "diff_per":"-"
+                  }
+               ],
+               "20190630":[
+                  {
+                     "RESIDENCE COUNTRY":"Total",
+                     "diff":"80.0",
+                     "value":"80.0",
+                     "diff_per":"-"
+                  },
+                  {
+                     "RESIDENCE COUNTRY":"China",
+                     "diff":"20.0",
+                     "value":"20.0",
+                     "diff_per":"-"
+                  },
+                  {
+                     "RESIDENCE COUNTRY":"France",
+                     "diff":"20.0",
+                     "value":"20.0",
+                     "diff_per":"-"
+                  },
+                  {
+                     "RESIDENCE COUNTRY":"Germany",
+                     "diff":"20.0",
+                     "value":"20.0",
+                     "diff_per":"-"
+                  },
+                  {
+                     "RESIDENCE COUNTRY":"India",
+                     "diff":"20.0",
+                     "value":"20.0",
+                     "diff_per":"-"
+                  }
+               ],
+               "20200630":[
+                  {
+                     "RESIDENCE COUNTRY":"Total",
+                     "diff":"40.0",
+                     "value":"120.0",
+                     "diff_per":"50.0%"
+                  },
+                  {
+                     "RESIDENCE COUNTRY":"China",
+                     "diff":"10.0",
+                     "value":"30.0",
+                     "diff_per":"50.0%"
+                  },
+                  {
+                     "RESIDENCE COUNTRY":"France",
+                     "diff":"10.0",
+                     "value":"30.0",
+                     "diff_per":"50.0%"
+                  },
+                  {
+                     "RESIDENCE COUNTRY":"Germany",
+                     "diff":"10.0",
+                     "value":"30.0",
+                     "diff_per":"50.0%"
+                  },
+                  {
+                     "RESIDENCE COUNTRY":"India",
+                     "diff":"10.0",
+                     "value":"30.0",
+                     "diff_per":"50.0%"
+                  }
+               ]
+            },
+            {
+               "lineItem":"CASH AND BALANCES - CENTRAL BANKS - OUTSIDE SINGAPORE",
+               "RESIDENCE COUNTRY":[
+                  "Total",
+                  "China",
+                  "France",
+                  "Germany",
+                  "India"
+               ],
+               "20180630":[
+                  {
+                     "RESIDENCE COUNTRY":"Total",
+                     "diff":"-",
+                     "value":"0.0",
+                     "diff_per":"-"
+                  },
+                  {
+                     "RESIDENCE COUNTRY":"China",
+                     "diff":"-",
+                     "value":"0.0",
+                     "diff_per":"-"
+                  },
+                  {
+                     "RESIDENCE COUNTRY":"France",
+                     "diff":"-",
+                     "value":"0.0",
+                     "diff_per":"-"
+                  },
+                  {
+                     "RESIDENCE COUNTRY":"Germany",
+                     "diff":"-",
+                     "value":"0.0",
+                     "diff_per":"-"
+                  },
+                  {
+                     "RESIDENCE COUNTRY":"India",
+                     "diff":"-",
+                     "value":"0.0",
+                     "diff_per":"-"
+                  }
+               ],
+               "20190630":[
+                  {
+                     "RESIDENCE COUNTRY":"Total",
+                     "diff":"80.0",
+                     "value":"80.0",
+                     "diff_per":"-"
+                  },
+                  {
+                     "RESIDENCE COUNTRY":"China",
+                     "diff":"20.0",
+                     "value":"20.0",
+                     "diff_per":"-"
+                  },
+                  {
+                     "RESIDENCE COUNTRY":"France",
+                     "diff":"20.0",
+                     "value":"20.0",
+                     "diff_per":"-"
+                  },
+                  {
+                     "RESIDENCE COUNTRY":"Germany",
+                     "diff":"20.0",
+                     "value":"20.0",
+                     "diff_per":"-"
+                  },
+                  {
+                     "RESIDENCE COUNTRY":"India",
+                     "diff":"20.0",
+                     "value":"20.0",
+                     "diff_per":"-"
+                  }
+               ],
+               "20200630":[
+                  {
+                     "RESIDENCE COUNTRY":"Total",
+                     "diff":"40.0",
+                     "value":"120.0",
+                     "diff_per":"50.0%"
+                  },
+                  {
+                     "RESIDENCE COUNTRY":"China",
+                     "diff":"10.0",
+                     "value":"30.0",
+                     "diff_per":"50.0%"
+                  },
+                  {
+                     "RESIDENCE COUNTRY":"France",
+                     "diff":"10.0",
+                     "value":"30.0",
+                     "diff_per":"50.0%"
+                  },
+                  {
+                     "RESIDENCE COUNTRY":"Germany",
+                     "diff":"10.0",
+                     "value":"30.0",
+                     "diff_per":"50.0%"
+                  },
+                  {
+                     "RESIDENCE COUNTRY":"India",
+                     "diff":"10.0",
+                     "value":"30.0",
+                     "diff_per":"50.0%"
+                  }
+               ]
+            },
+            {
+               "lineItem":"CASH AND BALANCES - PSEs - OUTSIDE SINGAPORE",
+               "RESIDENCE COUNTRY":[
+                  "Total",
+                  "China",
+                  "France",
+                  "Germany",
+                  "India"
+               ],
+               "20180630":[
+                  {
+                     "RESIDENCE COUNTRY":"Total",
+                     "diff":"-",
+                     "value":"0.0",
+                     "diff_per":"-"
+                  },
+                  {
+                     "RESIDENCE COUNTRY":"China",
+                     "diff":"-",
+                     "value":"0.0",
+                     "diff_per":"-"
+                  },
+                  {
+                     "RESIDENCE COUNTRY":"France",
+                     "diff":"-",
+                     "value":"0.0",
+                     "diff_per":"-"
+                  },
+                  {
+                     "RESIDENCE COUNTRY":"Germany",
+                     "diff":"-",
+                     "value":"0.0",
+                     "diff_per":"-"
+                  },
+                  {
+                     "RESIDENCE COUNTRY":"India",
+                     "diff":"-",
+                     "value":"0.0",
+                     "diff_per":"-"
+                  }
+               ],
+               "20190630":[
+                  {
+                     "RESIDENCE COUNTRY":"Total",
+                     "diff":"80.0",
+                     "value":"80.0",
+                     "diff_per":"-"
+                  },
+                  {
+                     "RESIDENCE COUNTRY":"China",
+                     "diff":"20.0",
+                     "value":"20.0",
+                     "diff_per":"-"
+                  },
+                  {
+                     "RESIDENCE COUNTRY":"France",
+                     "diff":"20.0",
+                     "value":"20.0",
+                     "diff_per":"-"
+                  },
+                  {
+                     "RESIDENCE COUNTRY":"Germany",
+                     "diff":"20.0",
+                     "value":"20.0",
+                     "diff_per":"-"
+                  },
+                  {
+                     "RESIDENCE COUNTRY":"India",
+                     "diff":"20.0",
+                     "value":"20.0",
+                     "diff_per":"-"
+                  }
+               ],
+               "20200630":[
+                  {
+                     "RESIDENCE COUNTRY":"Total",
+                     "diff":"40.0",
+                     "value":"120.0",
+                     "diff_per":"50.0%"
+                  },
+                  {
+                     "RESIDENCE COUNTRY":"China",
+                     "diff":"10.0",
+                     "value":"30.0",
+                     "diff_per":"50.0%"
+                  },
+                  {
+                     "RESIDENCE COUNTRY":"France",
+                     "diff":"10.0",
+                     "value":"30.0",
+                     "diff_per":"50.0%"
+                  },
+                  {
+                     "RESIDENCE COUNTRY":"Germany",
+                     "diff":"10.0",
+                     "value":"30.0",
+                     "diff_per":"50.0%"
+                  },
+                  {
+                     "RESIDENCE COUNTRY":"India",
+                     "diff":"10.0",
+                     "value":"30.0",
+                     "diff_per":"50.0%"
+                  }
+               ]
+            }
+         ]
+      },
+      "trendChartData":{
+         "text":"Trend for Line items : CASH AND BALANCES - BANKS - OUTSIDE SINGAPORE,CASH AND BALANCES - GOVERNMENT - OUTSIDE SINGAPORE,CASH AND BALANCES - CENTRAL BANKS - OUTSIDE SINGAPORE,CASH AND BALANCES - PSEs - OUTSIDE SINGAPORE",
+         "xAxis":[
+            "Jun-2018",
+            "Jun-2019",
+            "Jun-2020"
+         ],
+         "series":[
+            {
+               "name":"CASH AND BALANCES - BANKS - OUTSIDE SINGAPORE",
+               "data":[
+                  "1385640646.05512",
+                  "1385640726.05512",
+                  "1385640766.05512"
+               ]
+            },
+            {
+               "name":"CASH AND BALANCES - GOVERNMENT - OUTSIDE SINGAPORE",
+               "data":[
+                  "0.0",
+                  "80.0",
+                  "120.0"
+               ]
+            },
+            {
+               "name":"CASH AND BALANCES - CENTRAL BANKS - OUTSIDE SINGAPORE",
+               "data":[
+                  "0.0",
+                  "80.0",
+                  "120.0"
+               ]
+            },
+            {
+               "name":"CASH AND BALANCES - PSEs - OUTSIDE SINGAPORE",
+               "data":[
+                  "0.0",
+                  "80.0",
+                  "120.0"
+               ]
+            }
+         ]
+      },
+      "success":true
+   }
+}
