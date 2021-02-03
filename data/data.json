@@ -150,6 +150,90 @@
       "trendChartData":{
          "text":"Trend for Line item",
          "children":{
+            "Line item 1":{
+               "text":"Trend for Line item INR GBP and CHINA",
+               "xAxis":[
+                  "Jan/2020",
+                  "Feb/2020",
+                  "Mar/2020",
+                  "Apr/2020",
+                  "May/2020"
+               ],
+               "series":[
+                  {
+                     "name":"INR",
+                     "data":[
+                        200,
+                        390,
+                        300,
+                        230,
+                        300
+                     ]
+                  },
+                  {
+                     "name":"GBP",
+                     "data":[
+                        100,
+                        280,
+                        280,
+                        400,
+                        110
+                     ]
+                  },
+                  {
+                     "name":"CHINA",
+                     "data":[
+                        140,
+                        210,
+                        200,
+                        200,
+                        100
+                     ]
+                  }
+               ]
+            },
+			 "Line item 2":{
+               "text":"Trend for Line item INR GBP and CHINA",
+               "xAxis":[
+                  "Jan/2020",
+                  "Feb/2020",
+                  "Mar/2020",
+                  "Apr/2020",
+                  "May/2020"
+               ],
+               "series":[
+                  {
+                     "name":"INR",
+                     "data":[
+                        200,
+                        390,
+                        300,
+                        230,
+                        300
+                     ]
+                  },
+                  {
+                     "name":"GBP",
+                     "data":[
+                        100,
+                        280,
+                        280,
+                        400,
+                        110
+                     ]
+                  },
+                  {
+                     "name":"CHINA",
+                     "data":[
+                        140,
+                        210,
+                        200,
+                        200,
+                        100
+                     ]
+                  }
+               ]
+            }
          },
          "xAxis":[
             "Jan/2020",
